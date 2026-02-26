@@ -14,35 +14,13 @@ I focus on:
 - Continuously learning and adapting to new technologies
 
 ## 💻 Tech Stack
-
-### 🔹 Backend Development
-- Python
-- Java
-- C++
-- RESTful API development
-- Server-side architecture & business logic
-
-### 🔹 Frontend Development
-- React
-- Angular
-- TypeScript
-- HTML5
-- CSS3
-- Responsive & component-based design
-
-### 🔹 Database & Data Management
-- SQL
-- Relational database design
-- Query optimization
-- Data modeling
+For Backend Development I mainly use Python, Java, C++ and on for Frontend Development React, Angular, TypeScript, HTML5 abd CSS3
+to managne data and databases I ike  to work wth SQL and Mongo DB
 
 ## 🚀 What I Enjoy Working On
-
 - Full-stack web applications
 - Scalable backend services
 - Interactive frontend interfaces
-- Performance optimization
-- Clean architecture and system design
 
 ## 📈 Mindset
 
