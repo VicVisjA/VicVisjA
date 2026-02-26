@@ -20,8 +20,4 @@ to managne data and databases I ike  to work wth SQL and Mongo DB
 - Scalable backend services
 - Interactive frontend interfaces
 
-## 📈 Mindset
-
-I believe great software is built with clarity, structure, and continuous improvement. I'm always exploring better ways to solve problems and deliver high-quality solutions.
-
 Always building. Always learning.
