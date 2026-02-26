@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Full Stack Engineer passionate about designing and building scalable, efficient, and user-focused applications. I enjoy transforming ideas into fully functional products by working across both frontend and backend technologies.
+I'm Victor a Full Stack Engineer passionate about designing and building scalable, efficient, and user-focused applications. I enjoy transforming ideas into fully functional products by working across both frontend and backend technologies.
 
 ## 👨‍💻 About Me
 
@@ -9,8 +9,6 @@ I specialize in developing complete web applications — from architecting backe
 I focus on:
 - Writing clean, maintainable, and well-structured code
 - Building scalable and high-performance systems
-- Designing intuitive user experiences
-- Applying best practices in software architecture
 - Continuously learning and adapting to new technologies
 
 ## 💻 Tech Stack
